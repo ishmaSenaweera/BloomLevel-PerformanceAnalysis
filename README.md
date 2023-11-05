@@ -5,4 +5,4 @@ Key Dataset Types:
 
 Bloom's Level-wise Marks: Explore datasets that provide detailed insights into student performance based on Bloom's Taxonomy levels. These datasets offer a granular view of how students fare on assessments of varying cognitive complexity.
 
-Overall Marks: Additionally, we provide datasets that present overall marks achieved by students, offering a broader perspective on their performance without categorization into Bloom's Taxonomy levels.
+Overall Marks: Additionally, we provide datasets that present overall marks achieved by students, offering a broader perspective on their performance without considering Bloom's Taxonomy levels.
